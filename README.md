@@ -1,7 +1,7 @@
 TeamCity Gerrit Plugin
 ======================
 
-This plugin adds an additional build runner with possibility to Label Verify changes in Gerrit.
+This plugin adds an additional build runner that can Label Verify changes in Gerrit.
 
 Compatibility
 =============
