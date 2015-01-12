@@ -44,9 +44,17 @@ catch verification step result and call ssh gerrit command to Label Verify. +1 i
 License
 =======
 
-Apache License, Version 2.0
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
 
 Develop
 =======
 
 It's IntelliJ Idea project, all api libs included. Check artifacts output path before build.
+
+
+Authors
+=======
+
+The TeamCity plugin was originally developed by Aleksey Didik. This has since
+been extended by Gary Donovan.
